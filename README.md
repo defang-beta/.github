@@ -1,1 +1,1 @@
-# .github
+# Welcome to the Defang Beta!
