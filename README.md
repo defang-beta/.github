@@ -1,1 +1,1 @@
-# Welcome to the Defang Beta!
+This meta-repo manages our public defang-beta profile page.
